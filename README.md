@@ -2,7 +2,7 @@
 # Zach Morel
 
 <!-- Your Bio -->
-BBA Business Analytics | BBA Finance | BBA Insurance | 
+BBA Business Analytics | BBA Finance | BBA Insurance
 
 <!-- Your Email -->
 zmorel@uiowa.edu
