@@ -36,9 +36,6 @@ zmorel@uiowa.edu
 - Database Management
 - Business Process Automation
 
-## Education
-### Bachelor of Science in Computer Science
-**University Name** | Aug 2014 - May 2018
 
 
 
