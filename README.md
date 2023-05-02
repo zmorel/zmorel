@@ -1,9 +1,43 @@
-### Hi, I'm Zach, welcome to my Github profile!
+<!-- Your Name -->
+# Zach Morel
 
-### I am a current student enrolled at the Univsersity of Iowa studying Business Analytics and Information Systems along with Finance. Here are some of my socials:
+<!-- Your Bio -->
+BBA Business Analytics | BBA Finance | BBA Insurance | 
 
-[![Connect with me on LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin&colorB=0077B5)](https://www.linkedin.com/in/zach-morel/)
-[![My Portfolio](https://img.shields.io/badge/My%20Portfolio-Your%20Name-brightgreen?style=for-the-badge&logo=google-chrome)](https://zachmorel.info)
+<!-- Your Email -->
+zmorel@uiowa.edu
+
+<!-- Your LinkedIn -->
+[linkedin.com/in/zach-morel](https://www.linkedin.com/in/zach-morel)
+
+<!-- Your Portfolio -->
+[my-portfolio.com](https://my-portfolio.com)
+
+## Skills
+- Python
+- JavaScript
+- React
+- Node.js
+
+## Projects
+- [Project 1](https://github.com/username/project1)
+- [Project 2](https://github.com/username/project2)
+
+## Experience
+### Software Developer
+**Company Name** | Jan 2020 - Present
+- Developed and maintained various web applications using React and Node.js
+- Implemented new features and improved performance of existing codebase
+
+### Junior Software Developer
+**Company Name** | Aug 2018 - Dec 2019
+- Worked on a team to develop web applications using Python and Django
+- Assisted with software testing and debugging
+
+## Education
+### Bachelor of Science in Computer Science
+**University Name** | Aug 2014 - May 2018
+
 
 
 
