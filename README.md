@@ -22,18 +22,15 @@ zmorel@uiowa.edu
 
 ## Projects
 - [Flask Website](https://github.com/zmorel/PairProgramming)
-- [Project 2](https://github.com/zmorel/morel-loan-calculator)
+- [Loan Calculator](https://github.com/zmorel/morel-loan-calculator)
 
-## Experience
-### Software Developer
-**Company Name** | Jan 2020 - Present
-- Developed and maintained various web applications using React and Node.js
-- Implemented new features and improved performance of existing codebase
-
-### Junior Software Developer
-**Company Name** | Aug 2018 - Dec 2019
-- Worked on a team to develop web applications using Python and Django
-- Assisted with software testing and debugging
+## Previous Classes
+- Digital Product Management
+- Data Wrangling 
+- Data Mining
+- Computational Thinking
+- Database Management
+- Business Process Automation
 
 ## Education
 ### Bachelor of Science in Computer Science
