@@ -2,9 +2,9 @@
 # Zach Morel
 Welcome to my Github Page!
 ## Education
-#### University of Iowa
+University of Iowa
 
-BBA Business Analytics | BBA Finance | BBA Insurance
+- BBA Business Analytics | BBA Finance | BBA Insurance
 
 
 ## Contacts
