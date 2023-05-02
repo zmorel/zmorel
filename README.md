@@ -3,7 +3,6 @@
 Welcome to my Github Page!
 ## Education
 University of Iowa
-
 - BBA Business Analytics | BBA Finance | BBA Insurance
 
 
