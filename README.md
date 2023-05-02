@@ -5,7 +5,10 @@
 BBA Business Analytics | BBA Finance | BBA Insurance
 
 <!-- Your Email -->
-zmorel@uiowa.edu
+<p align="left">
+  <a href="mailto:zmorel@uiowa.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>&nbsp;&nbsp;
+</p>
+
 
 <!-- Your LinkedIn and Portfolio -->
 <p align='left'>
