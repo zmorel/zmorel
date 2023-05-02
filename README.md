@@ -15,13 +15,14 @@ zmorel@uiowa.edu
 
 ## Skills
 - Python
-- JavaScript
-- React
-- Node.js
+- R Studio
+- SQL
+- Tableau
+- Excel
 
 ## Projects
-- [Project 1](https://github.com/username/project1)
-- [Project 2](https://github.com/username/project2)
+- [Flask Website](https://github.com/zmorel/PairProgramming)
+- [Project 2](https://github.com/zmorel/morel-loan-calculator)
 
 ## Experience
 ### Software Developer
