@@ -1,5 +1,8 @@
 ### Hi, I'm Zach
 
+[![Connect with me on LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin&colorB=0077B5)](https://www.linkedin.com/in/zmorel/)
+
+
 <!--
 **zmorel/zmorel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
