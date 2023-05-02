@@ -3,6 +3,7 @@
 ### I am a current student enrolled at the Univsersity of Iowa studying Business Analytics and Information Systems along with Finance. Here are some of my socials:
 
 [![Connect with me on LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin&colorB=0077B5)](https://www.linkedin.com/in/zach-morel/)
+Check out my personal portfolio: [https://zachmorel.info](https://zachmorel.info)
 
 
 
