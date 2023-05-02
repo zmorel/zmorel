@@ -1,7 +1,7 @@
 ### Hi, I'm Zach
 
 [![Connect with me on LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin&colorB=0077B5)](https://www.linkedin.com/in/zach-morel/)
-[Link to my Handshake profile](https://joinhandshake.com/users/zmorel)
+[Link to my Handshake profile](https://joinhandshake.com/users/zach-morel)
 
 
 <!--
