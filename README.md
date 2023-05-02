@@ -1,11 +1,11 @@
 <!-- Your Name -->
 # Zach Morel
+## University of Iowa
 
-<!-- Your Bio -->
 BBA Business Analytics | BBA Finance | BBA Insurance
 
 
-<!-- Your LinkedIn and Portfolio -->
+## Contacts
 <p align='left'>
   <a href="https://www.linkedin.com/in/zach-morel"><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
   <a href="https://zachmorel.info"><img height="30" src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white"></a>&nbsp;&nbsp;
