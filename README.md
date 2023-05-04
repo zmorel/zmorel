@@ -28,7 +28,7 @@ University of Iowa
 
 ## Projects
 - [Flask Website](https://github.com/zmorel/PairProgramming)
-- [Loan Calculator](https://github.com/zmorel/morel-loan-calculator)
+- [Loan Calculator](https://github.com/zmorel/loan-calculatorZM)
 
 ## Previous Classes
 - Digital Product Management
